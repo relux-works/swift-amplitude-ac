@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "analytics-connector-ios",
+    name: "swift-amplitude-ac",
     platforms: [
         .iOS(.v10),
         .macOS(.v10_10),
